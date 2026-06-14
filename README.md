@@ -20,7 +20,8 @@ Binary classification challenge to predict whether an e-commerce user **converts
 ├── Deliverables/
 │   ├── notebook.ipynb        # Full reproducible solution notebook
 │   ├── submission.csv        # Final predictions for private_test.csv
-│   └── report.pdf            # One-page methodology summary
+│   ├── report.docx           # One-page methodology summary in docx format
+│   └── report.pdf            # One-page methodology summary in pdf format
 │
 ├── Week2-hackathon-datasetsacd318d/
 │   ├── train.csv                       # Labeled training data (10,000 rows)
